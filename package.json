@@ -2,8 +2,8 @@
   "name": "tranferwise",
   "version": "1.0.0",
   "description": "Transferwise home page clone",
-  "repository": "https://github.com/francisudeji/transferwise.git",
-  "author": "francisudeji <francis.udejiofficial@gmail.com>",
+  "repository": "https://github.com/dnature/transferwise.git",
+  "author": "Divine Hycenth <divinehycenth@outlook.com>",
   "license": "MIT",
   "scripts": {
     "dev": "next",
